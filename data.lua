@@ -127,9 +127,9 @@ data:extend {
         name = "traintunnel",
         enabled = true,
         ingredients = {
-            { "steel-plate", 1000 },
-            { "concrete", 1000 },
-            { "small-lamp", 100 },
+            { "steel-plate", 200 },
+            { "concrete", 200 },
+            { "small-lamp", 10 },
         },
         energy_required = 30,
         result = "traintunnel",
